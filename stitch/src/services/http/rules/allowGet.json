@@ -1,0 +1,15 @@
+{
+    "id": "5e84182a86196c99c6a1e3a7",
+    "name": "allowGet",
+    "actions": [
+        "get"
+    ],
+    "when": {
+        "%%args.url.host": {
+            "%in": [
+                "stitch-quickstarts.s3.amazonaws.com",
+                "lookups.twilio.com"
+            ]
+        }
+    }
+}

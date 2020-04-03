@@ -1,0 +1,12 @@
+{
+  "name": "fruver-serverless-stitch",
+  "version": "0.0.1",
+  "description": "Fruver Serverless (MongoDBAtlas Cloud Stitch)",
+  "main": "index.js",
+  "author": "Andres Osorio",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "prettier": "^2.0.2"
+  }
+}

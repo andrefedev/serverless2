@@ -1,0 +1,7 @@
+{
+    "id": "5e8454e5650aa344c50f8a96",
+    "name": "lambda",
+    "actions": [
+        "lambda:Invoke"
+    ]
+}

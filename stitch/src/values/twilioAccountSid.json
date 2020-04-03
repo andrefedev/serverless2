@@ -1,0 +1,6 @@
+{
+    "id": "5e8454e5650aa344c50f8a9b",
+    "name": "twilioAccountSid",
+    "value": "TWILIO_ACCOUNT_SID",
+    "from_secret": true
+}

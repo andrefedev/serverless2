@@ -1,0 +1,11 @@
+{
+    "id": "5e8452b51c6782b6f13c2d30",
+    "name": "mongodb-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "fruvercls01",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}

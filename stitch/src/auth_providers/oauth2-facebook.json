@@ -1,0 +1,38 @@
+{
+    "id": "5e8454e5650aa344c50f8a9d",
+    "name": "oauth2-facebook",
+    "type": "oauth2-facebook",
+    "config": {
+        "clientId": "189454352358120"
+    },
+    "secret_config": {
+        "clientSecret": "FACEBOOK_APP_SECRET"
+    },
+    "disabled": false,
+    "metadata_fields": [
+        {
+            "required": false,
+            "name": "name"
+        },
+        {
+            "required": false,
+            "name": "last_name"
+        },
+        {
+            "required": false,
+            "name": "birthday"
+        },
+        {
+            "required": false,
+            "name": "email"
+        }
+    ],
+    "redirect_uris": [
+        "http://localhost:8000",
+        "http://localhost:8000/login",
+        "https://4dbdda99.ngrok.io",
+        "https://4dbdda99.ngrok.io/login",
+        "https://cda0a0b7.ngrok.io",
+        "https://cda0a0b7.ngrok.io/login"
+    ]
+}
